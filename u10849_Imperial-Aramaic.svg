@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="u10849_Imperial-Aramaic.svg"
+   id="svg4"
+   viewBox="-10 0 841 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="937.07384"
+     inkscape:cx="58.395489"
+     inkscape:zoom="0.38669902"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="707"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="ccccccccscccccccc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="M 698.065,1071.45 C 622.0972,1030.1727 560.615,980.5818 513.618,922.679 466.6209,864.7767 430.2459,803.148 404.494,737.792 c -30.9023,41.2773 -65.0234,82.5547 -102.363,123.831 -37.3398,41.2773 -78.543,83.1279 -123.609,125.551 l -57.9414,-98.0322 c 57.9424,-53.8896 110.733,-109.499 158.374,-166.828 20.62564,-23.78077 40.09331,-43.37646 46.3458,-54.00058 0,0 -53.31832,-33.3727 -75.2931,-43.38255 -4.97481,-2.2661 45.48122,-97.63841 66.11222,-108.31948 33.72764,21.29336 60.82561,44.35012 91.43123,67.31238 l 23.04394,-17.93764 63.47778,59.20546 v 0 c 21.8896,68.7949 31.77973,124.64051 69.76413,183.11651 37.9834,58.4756 93.6719,111.219 167.065,158.229 z"
+     fill="currentColor" />
+</svg>
