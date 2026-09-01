@@ -1,16 +1,21 @@
-Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/imperial-aramaic)
-Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 700-500 BCE) 
-Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026
-by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, 
-and some glyphs based on Noto Imperial Aramaic made by The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
-and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat 
-who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. 
-This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>
+Copyright: Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/imperial-aramaic)\n
 
+Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 700-500 BCE) \n
+
+Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026\nby Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, \n
+and some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic)\n
+and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat \n
+who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. \n
+
+This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>\n
+
+Copyright 2026 The BeitDina Team (https://github.com/beitdina/early-aramaic
+Copyright 2011 The Cardo Project Authors (https://github.com/googlefonts/CardoFont)
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/imperial-aramaic)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
