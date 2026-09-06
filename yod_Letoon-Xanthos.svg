@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="yod_Letoon-Xanthos.svg"
+   id="svg4"
+   viewBox="-10 0 1290 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="844.38429"
+     inkscape:cx="134.7127"
+     inkscape:zoom="0.2734375"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="898"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccscccccccc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="m 717.18966,1409.5535 101.2944,-17.5216 267.07384,-63.7018 c 57.5178,-10.1441 56.7412,-12.3542 53.4069,43.6616 l -4.3039,72.3054 c 0.5092,43.9771 -0.5629,44.4407 -41.6775,49.58 l -500.8069,62.6008 c -71.7694,18.5507 -84.42153,-13.7196 -85.01131,-64.3322 L 505,1298 503.82802,997.48406 c -101.42964,16.80674 -206.8161,41.56964 -307.25419,49.61784 -55.15762,4.5098 -68.92368,17.7581 -74.83152,-30.3474 -3.72741,-12.7074 -5.27175,-25.95091 -7.22929,-38.6025 -1.86682,-49.3856 -9.56398,-64.62145 51.95358,-74.28535 L 503,851 491,563.239 166.32223,615.38863 C 86.030105,619.19567 36.944275,609.04792 24.888018,541.06932 23.250603,531.83348 21.633156,522.60479 20.147393,513.4249 15.458965,484.45711 12.081799,455.97521 13.526283,429.28809 94.500822,259.813 201.19234,449.98261 267.45442,439.30476 L 497,403.7067 l 69,-20.707 78,-3 14.48406,904.0319 v 63.5717 c 0.77419,52.9978 17.08458,70.5207 58.7056,61.9502 z"
+     fill="currentColor" />
+</svg>

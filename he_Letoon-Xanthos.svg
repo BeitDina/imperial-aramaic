@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="he_Letoon-Xanthos.svg"
+   id="svg4"
+   viewBox="-10 0 1442 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="834.70262"
+     inkscape:cx="1324.5502"
+     inkscape:zoom="0.13671875"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="707"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="cccccccsccccc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="M 502.96983,1029.8009 782.66251,381.66494 158.79478,784.28483 C 110.38288,763.86943 114.85443,697.15079 98.339661,678.0517 L 710.08488,288.73304 813.33356,278.6346 1031.3806,306.87991 c 23.8274,30.69074 46.806,62.45762 69.0162,95.01046 123.691,181.29072 223.5474,386.95829 313.4326,566.88318 -53.4923,1.07439 -111.7239,68.10545 -144.4631,57.71535 C 1176.9939,802.50545 1027.7388,585.57248 918.15027,398.31181 743.85347,788.24866 773.34134,754.82788 647.99653,1072.0233 Z"
+     fill="currentColor" />
+</svg>

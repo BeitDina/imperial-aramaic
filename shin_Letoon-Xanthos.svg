@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="shin_Letoon-Xanthos.svg"
+   id="svg4"
+   viewBox="-10 0 1342 2048"
+   version="1.1">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="1039.9487"
+     inkscape:cx="1898.5167"
+     inkscape:zoom="0.19334951"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="707"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     sodipodi:nodetypes="ccccccccccccccccccsscccscccsc"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="m 927.10543,1284.6123 c -68.11986,74.2225 -149.73269,133.9402 -255.30247,181.3193 -28.58652,12.4693 -48.35959,24.1392 -83.85592,26.3628 -5.44053,0.1263 -14.6331,-0.1048 -23.8736,-1.0823 C 443.95901,1445.0582 349.5816,1251.916 310.304,1163.631 279.7405,1092.8673 255.2093,1021.037 235.2054,949.789 192.599,796.96 169.7103,633.959 187.6312,485.634 c 10.7061,-36.9883 43.0479,-57.458 76.623,-55.9668 22.5303,1.43262 42.5957,8.83203 54.127,25.8848 7.08789,10.4873 10.9521,34.9688 10.1816,53.6094 10.8193,137.948 21.6807,262.788 45.7842,388.486 64,-53.6279 158.317,-99.6934 206.879,-163.501 51.3018,-67.4072 99.5264,-137.297 156.373,-202.912 8.82422,-1.89355 17.8623,-1.46191 28.3965,-1.40625 13.6348,2.83887 15.1182,5.87598 26.375,15.1504 22.04,18.1602 36.9375,45.3604 34.5801,68.6973 -41.2812,66.9277 -103.574,133.888 -155.125,197.334 -63.2725,77.873 -194.57071,168.74071 -264.93271,229.48265 4.44958,28.199 13.96699,57.3657 26.52556,86.5606 20.15,46.8427 48.12903,93.7581 75.56581,136.8654 27.1062,42.588 53.68314,81.4592 71.65851,112.8716 9.23411,1.0557 18.99998,1.3286 29.12834,0.9226 94.72554,-46.0732 170.66869,-103.0671 236.45149,-177.7845 55.98532,-66.5742 96.00638,-137.8113 132.52677,-209.14617 34.13623,-66.67789 65.21393,-133.44119 103.41153,-196.56178 40.6113,-58.3086 75.7422,-137.257 153.724,-114.804 48.1611,14.5479 39.7266,68.5059 14.5439,119.021 -27.6836,45.19914 -82.9332,109.10503 -125.0923,178.29397 -64.8379,106.40788 -123.6779,225.31148 -198.23107,307.88108 z"
+     fill="currentColor" />
+</svg>
